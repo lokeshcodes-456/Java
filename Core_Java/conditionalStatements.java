@@ -36,5 +36,10 @@ public class conditionalStatements {
                 System.out.println("You selected none of above, try again!");
                 break;
         }
+
+        // Ternary operator its can be said as enhanced if else condition
+        //Easy to find in single line
+
+        System.out.println(age>=18?"Can vote":"Cant vote");
     }
 }

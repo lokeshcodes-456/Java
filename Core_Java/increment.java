@@ -4,5 +4,6 @@ public class increment {
         System.out.println(++num);
         int num1 = 7;
         System.out.println(num1++);
+        System.out.println(num1);
     }
 }

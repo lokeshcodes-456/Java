@@ -19,7 +19,7 @@ class advCalc extends calc{
         return a/b;
     }
 }
-
+// if any further class extends from advCalc it is multi level inheritance and the object is created from further class which will call all methods
 public class inheritance {
     public static void main(String[] args) {
         //Using advCalc and creating the object of advCalc will automatically let's us use the methods of calc class too

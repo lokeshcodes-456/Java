@@ -1,0 +1,22 @@
+Naming Conventions:
+    
+    Java follows camel case naming conventions for showing distinct letters and feasible of reading and understanding.
+
+Packages:
+
+    Storing java files in folders is known as Package.
+
+    keyword used to create package is package.
+
+    Syntax: 
+        package tools;
+
+    these make project structured.
+
+    Importing packages syntax:
+
+        import tools.calc;
+
+    To import all files in package we can use:
+
+        import tools.*;
